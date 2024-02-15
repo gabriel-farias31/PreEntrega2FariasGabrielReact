@@ -1,0 +1,44 @@
+ [
+ 
+ {
+    "id": 1,
+    "nombre": "tintura loreal",
+    "img": "./src/assets/img/tinturaloreal.jpg",
+    "precio" : 1500,
+    "cantidad disponible": 100,
+    "descripcion": "tintura loreal para todo tipo de cabello"
+
+ },
+
+ {
+    
+    "id": 2,
+    "nombre": "shampoo kerastase",
+    "img": "./src/assets/img/shkerastase.jpg",
+    "precio" : 3000,
+    "cantidad disponible": 20,
+    "descripcion": "shampoo kerastse premium"
+
+ },
+ {
+    "id": 3,
+    "nombre": "shampoo loreal",
+    "img": "./src/assets/img/shloreal.jpg",
+    "precio" : 1000,
+    "cantidad disponible": 150,
+    "descripcion": "shampoo loreal profesional"
+
+
+ },
+ {
+    "id": 4,
+    "nombre": "shampoo neutro ",
+    "img": "./src/assets/img/shneutro.jpg",
+    "precio" : 500,
+    "cantidad disponible": 200,
+    "descripcion": "shampoo para todo tipo de cabello"
+
+
+ }
+
+]
